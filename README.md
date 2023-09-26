@@ -1,2 +1,3 @@
 # Thermal Image Enhancement using Convolution Neural Network
-This is a PyTorch implementation of the paper [Thermal Image Enhancement using Convolutional Neural Network](https://ieeexplore.ieee.org/document/7759059) which was published in International Conference on Intelligent Robots and Systems (IROS) 2016.
+原版代码对高版本python一系列图像处理库和pytorch太不友好了，重构了一下，可以正常训练
+烦请自己定义数据集路径和结果存放的路径，稍后补上示例
